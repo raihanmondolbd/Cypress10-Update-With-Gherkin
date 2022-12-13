@@ -10,7 +10,6 @@ screenshots/
 videos/
 runner-results/
 allure-results/
-*.json
 
 # Compiled Java class files
 *.class
