@@ -1,25 +1,25 @@
  clone this repo and open terminal with root project directory and following the command step by step:
  #### install the dependencies
  ```bash
- 1. npm init -y
+ npm init -y
  ```
  ```bash
- 2. npm install cypress --save-dev
+ npm install cypress --save-dev
  ```
  ```bash
- 3. npm install @badeball/cypress-cucumber-preprocessor
+ npm install @badeball/cypress-cucumber-preprocessor
  ```
  ```bash
- 4. npm i -D cypress @bahmutov/cypress-esbuild-preprocessor esbuild
+ npm i -D cypress @bahmutov/cypress-esbuild-preprocessor esbuild
  ```
  ```bash
- 5. npm i @shelex/cypress-allure-plugin
+ npm i @shelex/cypress-allure-plugin
  ```
  ```bash
- 6. npm i cypress-xpath
+ npm i cypress-xpath
  ```
   ```bash
- 7. npm i cypress-parallel
+ npm i cypress-parallel
  ```
  
  #### simple run:
